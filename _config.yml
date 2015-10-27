@@ -6,7 +6,7 @@
 name: Gil Yehuda
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Sr. Director of Open Source, Standards at Yahoo Inc.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/318024?v=3&s=48
@@ -17,7 +17,7 @@ avatar: https://avatars3.githubusercontent.com/u/318024?v=3&s=48
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
+  dribbble: https://about.me/gilyehuda
   email: gil@gilyehuda.com
   facebook: gilyehuda
   flickr: vng
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: gyehuda.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
