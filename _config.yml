@@ -27,7 +27,6 @@ footer-links:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: gyehuda
 
-disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
