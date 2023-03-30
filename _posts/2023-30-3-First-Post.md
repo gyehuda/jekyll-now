@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Firsr real post!
+title: First real post!
 ---
 
 # This is a new post
